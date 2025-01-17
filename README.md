@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Kashish Gupta`
+- **CCID:** `kgupta5`
 
 ## References and Resources
 
